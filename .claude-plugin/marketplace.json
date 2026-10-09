@@ -1,0 +1,6 @@
+{
+  "name": "claude-code-bash-guard",
+  "description": "bash-guard dla Claude Code: blokuje katastrofalne komendy, a ryzykowne wstrzymuje z podglądem skutków",
+  "owner": { "name": "hugo88" },
+  "plugins": [{ "name": "bash-guard", "source": "./" }]
+}

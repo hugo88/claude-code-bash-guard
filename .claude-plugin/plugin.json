@@ -1,0 +1,6 @@
+{
+  "name": "bash-guard",
+  "version": "0.2.0",
+  "description": "Blocks catastrophic Bash commands; holds risky ones (rm -r, git reset --hard, git clean, force push, migrations) and shows what they would change, with Proceed and Cancel",
+  "author": { "name": "hugo88" }
+}
